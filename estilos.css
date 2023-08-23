@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+
+.contenedor{
+    background: skyblue;
+    width: 100vw;
+    height: 300vh;
+    text-align: center;
+}
+
+p{
+    font-size: larger;
+    padding: 4%;
+}
+body{
+    font-family: 'Lobster', cursive;
+font-family: 'Maven Pro', sans-serif;
+}
